@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Golden Palms Cleaning Services",
+    "description": "Premium, eco-conscious cleaning and fumigation services for homes and businesses across Dar es Salaam."
+  },
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "whyUs": "Why Us",
+    "contact": "Contact",
+    "callNow": "Call Now",
+    "getQuote": "Get a Quote"
+  },
+  "hero": {
+    "brand": "Golden Palms",
+    "tagline": "Where Cleanliness Meets Excellence",
+    "intro": "Golden Palms delivers premium, eco-conscious cleaning to homes and businesses across Dar es Salaam. Trained team and trusted results. Every space, done right.",
+    "ctaQuote": "Get a Quote",
+    "ctaCall": "Call Now"
+  },
+  "about": {
+    "heading": "About Us",
+    "paragraphs": [
+      "Golden Palms Cleaning Services was founded to bring dependable, detail-driven cleaning to homes and businesses across Dar es Salaam.",
+      "From residential deep cleans to commercial contracts, our trained team treats every space with the same care we'd give our own.",
+      "We use eco-conscious methods and products that are safe for your family, staff, and the environment. Because a truly clean space shouldn't cost the environment.",
+      "Every job is backed by our promise: thorough work, respectful service, and results you can trust."
+    ]
+  },
+  "services": {
+    "heading": "Our Services",
+    "cleaning": {
+      "heading": "Clean Services",
+      "items": [
+        "Floor Cleaning",
+        "Carpet Cleaning",
+        "Garden and Landscaping",
+        "Flower and Tree Replacement",
+        "Bathrooms and Kitchen Cleaning",
+        "Car Wash Service",
+        "Hospital Cleaning",
+        "Company Cleaning",
+        "Market Cleaning",
+        "Road Cleaning"
+      ]
+    },
+    "fumigation": {
+      "heading": "Fumigation Service",
+      "items": [
+        "Institution Fumigation",
+        "Restaurants, Clubs and Ports",
+        "Methyl Bromide Fumigation",
+        "Pallet Fumigation",
+        "Methyl Bromide Alternative",
+        "Structural Fumigation",
+        "Transit Fumigation",
+        "Fumigation Import/Export",
+        "International Standards for Phytosanitary Measure (ISPM)",
+        "Container Fumigation"
+      ]
+    }
+  },
+  "whyChooseUs": {
+    "heading": "Why Choose Us",
+    "items": [
+      {
+        "title": "Trusted Team",
+        "description": "Every cleaner is trained, background checked, and uniformed for your peace of mind. Our team operates with full accountability, so you're covered from start to finish."
+      },
+      {
+        "title": "Quality You Can See",
+        "description": "Eco-friendly products, safe for your family, staff, pets, and the environment, without compromising on results, while maintaining detail-driven standards."
+      },
+      {
+        "title": "Built Around You",
+        "description": "Tailored cleaning plans: residential, commercial, move-in/move-out, or one-off deep cleans customized to your space and schedule. Flexible scheduling: daily, weekly, monthly, or on-demand."
+      }
+    ],
+    "footerLine": "Friendly Price, Welcome for Excellent Service"
+  },
+  "mission": {
+    "heading": "Our Mission",
+    "body": "To deliver cleaning services that homes and businesses across Dar es Salaam can rely on: thorough, honest, and consistent every time. We're committed to raising the standard of professional cleaning through trained teams, eco-conscious practices, and genuine care for every space we touch. Our goal isn't just a clean space, it's your complete peace of mind."
+  },
+  "vision": {
+    "heading": "Our Vision",
+    "body": "To be recognized as the benchmark for professional cleaning providers. Defined not by size, but by the trust we earn in every space we serve. We envision a standard of care and consistency that makes our name synonymous with reliability itself."
+  },
+  "contact": {
+    "heading": "Contact Us",
+    "intro": "Ready for a cleaner space? Reach out and we'll get back to you shortly.",
+    "phoneLabel": "Phone",
+    "whatsappLabel": "WhatsApp",
+    "locationLabel": "Location",
+    "emailLabel": "Email",
+    "location": "Dar es Salaam",
+    "email": "goldenpalms25@gmail.com",
+    "phones": ["+255 658 206 666", "+255 678 252 361"],
+    "form": {
+      "heading": "Request a Quote",
+      "name": "Full Name",
+      "phone": "Phone Number",
+      "email": "Email",
+      "service": "Service Needed",
+      "servicePlaceholder": "e.g. Carpet Cleaning, Fumigation",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your space and what you need",
+      "submit": "Send Request",
+      "submitting": "Sending...",
+      "success": "Thanks! We've received your request and will get back to you shortly.",
+      "error": "Something went wrong. Please try again or contact us directly.",
+      "mailtoFallback": "Prefer email? Write to us directly"
+    }
+  },
+  "footer": {
+    "tagline": "Where Cleanliness Meets Excellence",
+    "rights": "All rights reserved."
+  }
+}

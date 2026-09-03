@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Golden Palms Cleaning Services
+
+Multilingual (English / Swahili) marketing site for Golden Palms Cleaning Services, built with Next.js (App Router) and `next-intl`.
+
+## Requirements
+
+- Node.js ≥ 20.9 (see `.nvmrc`)
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) — it redirects to `/en`. Swahili is available at `/sw`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Page content lives in `app/[locale]/page.tsx` and the section components under `components/`; translated copy lives in `messages/en.json` and `messages/sw.json`.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Environment variables
 
-## Learn More
+The contact/quote-request form sends email via Gmail SMTP (`app/api/contact/route.ts`) using the business's own Gmail account — no third-party form service or paid plan required.
 
-To learn more about Next.js, take a look at the following resources:
+Copy `.env.local.example` to `.env.local` and fill in:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- `GMAIL_USER` — the Gmail address to send from and receive submissions at (`goldenpalms25@gmail.com`).
+- `GMAIL_APP_PASSWORD` — a Gmail **App Password** for that account (not the regular login password):
+  1. Turn on 2-Step Verification on the Google account, if not already on: https://myaccount.google.com/security
+  2. Go to https://myaccount.google.com/apppasswords, create an app password (name it e.g. "Golden Palms Website"), and copy the 16-character code.
+  3. Use that code as `GMAIL_APP_PASSWORD`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Deploying
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project deploys to [Vercel](https://vercel.com) with zero configuration: import the GitHub repo, add `GMAIL_USER` and `GMAIL_APP_PASSWORD` under Project Settings → Environment Variables, and deploy.

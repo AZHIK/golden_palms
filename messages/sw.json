@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "Golden Palms Cleaning Services",
+    "description": "Huduma bora za usafi na unyunyizi dawa, zinazozingatia mazingira, kwa nyumba na biashara kote Dar es Salaam."
+  },
+  "nav": {
+    "about": "Kuhusu Sisi",
+    "services": "Huduma Zetu",
+    "whyUs": "Kwanini Utuchague",
+    "contact": "Wasiliana Nasi",
+    "callNow": "Piga Simu",
+    "getQuote": "Pata Bei"
+  },
+  "hero": {
+    "brand": "Golden Palms",
+    "tagline": "Where Cleanliness Meets Excellence",
+    "intro": "Golden Palms inatoa huduma bora za usafi, zinazozingatia mazingira, kwa nyumba na biashara kote Dar es Salaam. Timu yetu imepata mafunzo na hutoa matokeo yanayoaminika. Kila eneo, linasafishwa ipasavyo.",
+    "ctaQuote": "Pata Bei",
+    "ctaCall": "Piga Simu"
+  },
+  "about": {
+    "heading": "Kuhusu Sisi",
+    "paragraphs": [
+      "Golden Palms Cleaning Services ilianzishwa kwa lengo la kutoa huduma za usafi zinazoaminika, zenye umakini na zinazozingatia kila undani kwa nyumba na biashara kote Dar es Salaam.",
+      "Kuanzia usafi wa kina wa makazi hadi mikataba ya usafi kwa biashara, timu yetu iliyofunzwa hutunza kila eneo kwa uangalifu uleule ambao tungetumia kutunza nafasi zetu wenyewe.",
+      "Tunatumia mbinu na bidhaa zinazozingatia utunzaji wa mazingira, ambazo ni salama kwa familia yako, wafanyakazi wako na mazingira. Kwa sababu eneo safi kwa kweli halipaswi kugharimu mazingira.",
+      "Kila huduma tunayotoa inaungwa mkono na ahadi yetu: usafi wa kina, huduma yenye heshima, na matokeo unayoweza kuyaamini."
+    ]
+  },
+  "services": {
+    "heading": "Huduma Zetu",
+    "cleaning": {
+      "heading": "Huduma ya Usafi",
+      "items": [
+        "Usafishaji wa Sakafu",
+        "Usafishaji wa Mazulia",
+        "Bustani na Mandhari",
+        "Maua na Uingizwaji wa Bure",
+        "Usafi wa Bafu na Jikoni",
+        "Uoshaji wa Gari",
+        "Usafi wa Hospitali",
+        "Usafi wa Makampuni",
+        "Usafi wa Sokoni",
+        "Usafi wa Barabarani"
+      ]
+    },
+    "fumigation": {
+      "heading": "Huduma ya Unyunyizi Dawa",
+      "items": [
+        "Unyunyiziaji wa Taasisi: Hoteli, Hospitali, Migahawa, Vilabu na Bandari",
+        "Unyunyiziaji kwa Methyl Bromide",
+        "Unyunyiziaji wa Paleti",
+        "Mbadala wa Methyl Bromide",
+        "Unyunyiziaji wa Majengo",
+        "Unyunyiziaji wa Mizigo ya Usafirishaji",
+        "Unyunyiziaji wa Uagizaji/Uuzaji Nje",
+        "Viwango vya Kimataifa vya Hatua za Afya ya Mimea (ISPM)",
+        "Unyunyiziaji wa Kontena"
+      ]
+    }
+  },
+  "whyChooseUs": {
+    "heading": "Kwanini Utuchague",
+    "items": [
+      {
+        "title": "Timu Inayoaminika",
+        "description": "Kila mhudumu wa usafi amefunzwa, amefanyiwa ukaguzi wa historia, na huvaa sare kwa ajili ya amani yako ya akili. Timu yetu hufanya kazi kwa uwajibikaji kamili hivyo uko salama kuanzia mwanzo hadi mwisho."
+      },
+      {
+        "title": "Ubora Unaoonekana",
+        "description": "Bidhaa rafiki kwa mazingira, salama kwa familia yako, wafanyakazi, wanyama wako wa nyumbani, na mazingira bila kuathiri ubora wa matokeo."
+      },
+      {
+        "title": "Tupo Karibu Yako",
+        "description": "Kwa nyumba, biashara, kuhamia/kutoka kwenye nyumba, au usafi wa kina wa mara moja, yote huandaliwa kulingana na eneo lako na ratiba yako. Ratiba zinazobadilika: kila siku, kila wiki, kila mwezi, au unapohitaji."
+      }
+    ],
+    "footerLine": "Bei Zetu ni Rafiki, Karibu Upate Huduma Bora"
+  },
+  "mission": {
+    "heading": "Dhima Yetu",
+    "body": "Kutoa huduma za usafi ambazo ni za nyumba na biashara kote Dar es Salaam zinaweza kuzitegemea kwa usafi wa kina, uaminifu, na uthabiti kila wakati. Tumejikita katika kuinua kiwango cha usafi wa kitaalamu kupitia timu zilizopewa mafunzo, matumizi ya njia zinazolinda mazingira, na kujali kwa dhati kila eneo tunalolihudumia. Lengo letu si usafi pekee, bali ni kukupa amani ya akili kikamilifu."
+  },
+  "vision": {
+    "heading": "Dira Yetu",
+    "body": "Kutambulika katika kutoa huduma za usafi wa kitaalamu si kwa ukubwa wake tu, bali kwa imani tunayojenga katika kila eneo tunalohudumia. Tunatazamia kuweka kiwango cha huduma kinachokuwa thabiti kwa kiwango ambacho jina letu linakuwa sawa na uaminifu wenyewe."
+  },
+  "contact": {
+    "heading": "Wasiliana Nasi",
+    "intro": "Uko tayari kwa eneo safi zaidi? Wasiliana nasi na tutakujibu haraka iwezekanavyo.",
+    "phoneLabel": "Simu",
+    "whatsappLabel": "WhatsApp",
+    "locationLabel": "Eneo",
+    "emailLabel": "Barua Pepe",
+    "location": "Dar es Salaam",
+    "email": "goldenpalms25@gmail.com",
+    "phones": ["+255 658 206 666", "+255 678 252 361"],
+    "form": {
+      "heading": "Omba Bei",
+      "name": "Jina Kamili",
+      "phone": "Namba ya Simu",
+      "email": "Barua Pepe",
+      "service": "Huduma Unayohitaji",
+      "servicePlaceholder": "mfano: Usafishaji wa Mazulia, Unyunyizi Dawa",
+      "message": "Ujumbe",
+      "messagePlaceholder": "Tuambie kuhusu eneo lako na unachohitaji",
+      "submit": "Tuma Ombi",
+      "submitting": "Inatuma...",
+      "success": "Asante! Tumepokea ombi lako na tutakujibu hivi karibuni.",
+      "error": "Hitilafu imetokea. Tafadhali jaribu tena au wasiliana nasi moja kwa moja.",
+      "mailtoFallback": "Unapendelea barua pepe? Tuandikie moja kwa moja"
+    }
+  },
+  "footer": {
+    "tagline": "Where Cleanliness Meets Excellence",
+    "rights": "Haki zote zimehifadhiwa."
+  }
+}
