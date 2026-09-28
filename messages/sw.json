@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Golden Palms Cleaning Services",
+    "title": "Golden Trees Cleaning Services",
     "description": "Huduma bora za usafi na unyunyizi dawa, zinazozingatia mazingira, kwa nyumba na biashara kote Dar es Salaam."
   },
   "nav": {
@@ -12,16 +12,16 @@
     "getQuote": "Wasiliana Nasi"
   },
   "hero": {
-    "brand": "Golden Palms",
+    "brand": "Golden Trees",
     "tagline": "Where Cleanliness Meets Excellence",
-    "intro": "Golden Palms inatoa huduma bora za usafi, zinazozingatia mazingira, kwa nyumba na biashara kote Dar es Salaam. Timu yetu imepata mafunzo na hutoa matokeo yanayoaminika. Kila eneo, linasafishwa ipasavyo.",
+    "intro": "Golden Trees inatoa huduma bora za usafi, zinazozingatia mazingira, kwa nyumba na biashara kote Dar es Salaam. Timu yetu imepata mafunzo na hutoa matokeo yanayoaminika. Kila eneo, linasafishwa ipasavyo.",
     "ctaQuote": "Wasiliana Nasi",
     "ctaCall": "Piga Simu"
   },
   "about": {
     "heading": "Kuhusu Sisi",
     "paragraphs": [
-      "Golden Palms Cleaning Services ilianzishwa kwa lengo la kutoa huduma za usafi zinazoaminika, zenye umakini na zinazozingatia kila undani kwa nyumba na biashara kote Dar es Salaam.",
+      "Golden Trees Cleaning Services ilianzishwa kwa lengo la kutoa huduma za usafi zinazoaminika, zenye umakini na zinazozingatia kila undani kwa nyumba na biashara kote Dar es Salaam.",
       "Kuanzia usafi wa kina wa makazi hadi mikataba ya usafi kwa biashara, timu yetu iliyofunzwa hutunza kila eneo kwa uangalifu uleule ambao tungetumia kutunza nafasi zetu wenyewe.",
       "Tunatumia mbinu na bidhaa zinazozingatia utunzaji wa mazingira, ambazo ni salama kwa familia yako, wafanyakazi wako na mazingira. Kwa sababu eneo safi kwa kweli halipaswi kugharimu mazingira.",
       "Kila huduma tunayotoa inaungwa mkono na ahadi yetu: usafi wa kina, huduma yenye heshima, na matokeo unayoweza kuyaamini."
@@ -93,7 +93,7 @@
     "locationLabel": "Eneo",
     "emailLabel": "Barua Pepe",
     "location": "Dar es Salaam",
-    "email": "goldenpalms25@gmail.com",
+    "email": "goldentrees25@gmail.com",
     "phones": ["+255 658 206 666", "+255 678 252 361"],
     "form": {
       "heading": "Omba Bei",

@@ -22,7 +22,7 @@ export default function About() {
         <div className="relative min-h-[280px] w-full overflow-hidden rounded-2xl shadow-md">
           <Image
             src={teamPhoto}
-            alt="Golden Palms cleaning team member at work"
+            alt="Golden Trees cleaning team member at work"
             fill
             sizes="(min-width: 768px) 50vw, 100vw"
             className="object-cover"

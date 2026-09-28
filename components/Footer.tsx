@@ -20,7 +20,7 @@ export default function Footer() {
           {t("footer.tagline")}
         </p>
         <p className="text-xs text-white/50">
-          © {year} Golden Palms Cleaning Services. {t("footer.rights")}
+          © {year} Golden Trees Cleaning Services. {t("footer.rights")}
         </p>
       </div>
     </footer>

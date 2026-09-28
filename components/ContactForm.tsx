@@ -130,10 +130,10 @@ export default function ContactForm() {
       <p className="mt-4 text-xs text-brand-green-dark/60">
         {t("mailtoFallback")}:{" "}
         <a
-          href="mailto:goldenpalms25@gmail.com"
+          href="mailto:goldentrees25@gmail.com"
           className="font-medium text-brand-green underline underline-offset-2"
         >
-          goldenpalms25@gmail.com
+          goldentrees25@gmail.com
         </a>
       </p>
     </div>

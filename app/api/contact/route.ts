@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import nodemailer from "nodemailer";
 
-const CONTACT_EMAIL = "goldenpalms25@gmail.com";
+const CONTACT_EMAIL = "goldentrees25@gmail.com";
 
 function escapeHtml(value: string) {
   return value
@@ -57,7 +57,7 @@ export async function POST(request: Request) {
 
   try {
     await transporter.sendMail({
-      from: `"Golden Palms Website" <${gmailUser}>`,
+      from: `"Golden Trees Website" <${gmailUser}>`,
       to: CONTACT_EMAIL,
       replyTo: email || undefined,
       subject: `New quote request from ${name}`,

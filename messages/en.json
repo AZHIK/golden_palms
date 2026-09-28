@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Golden Palms Cleaning Services",
+    "title": "Golden Trees Cleaning Services",
     "description": "Premium, eco-conscious cleaning and fumigation services for homes and businesses across Dar es Salaam."
   },
   "nav": {
@@ -12,16 +12,16 @@
     "getQuote": "Get a Quote"
   },
   "hero": {
-    "brand": "Golden Palms",
+    "brand": "Golden Trees",
     "tagline": "Where Cleanliness Meets Excellence",
-    "intro": "Golden Palms delivers premium, eco-conscious cleaning to homes and businesses across Dar es Salaam. Trained team and trusted results. Every space, done right.",
+    "intro": "Golden Trees delivers premium, eco-conscious cleaning to homes and businesses across Dar es Salaam. Trained team and trusted results. Every space, done right.",
     "ctaQuote": "Get a Quote",
     "ctaCall": "Call Now"
   },
   "about": {
     "heading": "About Us",
     "paragraphs": [
-      "Golden Palms Cleaning Services was founded to bring dependable, detail-driven cleaning to homes and businesses across Dar es Salaam.",
+      "Golden Trees Cleaning Services was founded to bring dependable, detail-driven cleaning to homes and businesses across Dar es Salaam.",
       "From residential deep cleans to commercial contracts, our trained team treats every space with the same care we'd give our own.",
       "We use eco-conscious methods and products that are safe for your family, staff, and the environment. Because a truly clean space shouldn't cost the environment.",
       "Every job is backed by our promise: thorough work, respectful service, and results you can trust."
@@ -94,7 +94,7 @@
     "locationLabel": "Location",
     "emailLabel": "Email",
     "location": "Dar es Salaam",
-    "email": "goldenpalms25@gmail.com",
+    "email": "goldentrees25@gmail.com",
     "phones": ["+255 658 206 666", "+255 678 252 361"],
     "form": {
       "heading": "Request a Quote",
